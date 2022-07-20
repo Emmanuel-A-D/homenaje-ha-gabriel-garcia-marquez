@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(135, 137, 137);
+  }
+  #main-doc{
+    width: 90%;
+    margin: auto;
+  }
+  #title{
+    text-align: center;
+    font-size: 2em;
+  }
+  .img-div{
+    margin-bottom: 80px;
+  }
+  #image{
+    display: inline-block;
+    max-width: 100%;
+  }
+  .img-caption{
+    text-align: center;
+    font-style: italica;
+  }
+  .tribute-info{
+    text-align: center;
+    line-height: 25px;
+  }
+  .info{
+    width: 40%;
+    text-align: justify;
+    display:inline-block;
+    line-height: 35px;
+  }
+  #tribute-link{
+    color: rgb(253, 253, 253);
+    text-decoration: none;
+  }
